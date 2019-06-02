@@ -1,2 +1,1 @@
-this is my feature branch
-this is branch moved to master branch
+this is my master branch
